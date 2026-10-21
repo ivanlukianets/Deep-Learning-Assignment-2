@@ -237,6 +237,6 @@ What the team has established: the three rare classes are 60% of the score; pred
 ---
 
 ## 14. AI tools usage (course policy)
-Ivan Lukianets:
+Ivan Lukianets: https://claude.ai/code/cshk_01U1m3EP4qAQQUWH5BmNZ1788pgCpaY395rkuJJNzEA4vB
 Mykola Utkin: https://claude.ai/share/2518387d-aa45-4c15-9168-1af74a7f5eda
 Taras Baraniuk:
